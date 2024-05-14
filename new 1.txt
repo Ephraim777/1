@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\msys]
+@="Open msys Here"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\msys\command]
+@="C:\\MinGW\\msys\\1.0\\msys.bat"
